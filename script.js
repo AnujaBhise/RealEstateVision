@@ -42,7 +42,7 @@ gsap.to("#page2>h1>span",{
     trigger:"#page2>h1>span",
     start:"top bottom",
     end:"bottom top",
-    scroller:"main",
+    scroller:"#main",
     scrub:.5,
     markers:true
   },
@@ -50,6 +50,7 @@ gsap.to("#page2>h1>span",{
   color:'#fff'
 })
 
+// page 3
 function canvas(){
   const canvas = document.querySelector("#page3>canvas");
 const context = canvas.getContext("2d");
@@ -199,5 +200,23 @@ end: `250% top`,
 });
 }
 canvas()
+// page 4
 
-
+var clutter = ""; //"clutter" variable with plane empty string
+//no space between split
+document.querySelector("#page4>h1").textContent.split("").forEach(function(dets){
+  clutter += `<span>${dets}</span>` //add tilted comma here
+  document.querySelector("#page4>h1").innerHTML = clutter;
+})
+gsap.to("#page4>h1>span",{
+  scrollTrigger:{
+    trigger:"#page4>h1>span",
+    start:"top bottom",
+    end:"bottom top",
+    scroller:"#main",
+    scrub:.6,
+    markers:true
+  },
+  stagger:.2,
+  color:'#fff'
+})
