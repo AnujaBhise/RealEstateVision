@@ -1,0 +1,152 @@
+*{
+    margin: 0% ;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    position:relative;
+    overflow: hidden;
+}
+@font-face {
+    font-family: a;
+    src: url(./resoures/jost-variable.ttf);
+}
+@font-face {
+    font-family: b;
+    src: url(./resoures/KFOlCnqEu92Fr1MmEU9fBBc4\ \(1\).ttf);
+}
+@font-face {
+    font-family: c;
+    src: url(./resoures/KFOmCnqEu92Fr1Mu4mxK\ \(1\).ttf);
+}
+#page1{
+    height:100vh;
+    width:100vw;
+    /* background-color: red; */
+    position: relative;
+}
+#page1>video{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+    /* object-position: center; */
+   
+}
+#page1>nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px;
+    position:absolute;
+    height:9vh;
+    width:100vw;
+    top:2%;
+    /* background-color: yellow; */
+   
+}
+
+#page1>nav>img{
+    width:12%;
+    margin-top: -1.12em;
+    margin-left: -3.12em;
+    /* border: 3px solid pink; */
+}
+#right-nav>button{
+    margin-right: 1.3em; 
+    padding:10px 20px;
+    border-radius: 50px;
+    border: 1px solid white;
+    background-color: #0b48ed;
+    color: white;
+    font-family: a;
+    font-size: 15px;
+     
+    right:3%;
+    
+    
+}
+.hero-page1{
+    position: absolute;
+    bottom: 3%;
+    left: 6%;
+    top:45%;
+    height: 45vh;
+    width:45vw;
+    /* background-color: red; */
+}
+.hero-page1>h1{
+    font-family: c;
+    font-size: 5.8vw;
+    font-weight:lighter;
+    letter-spacing: 0.1rem;
+    line-height: 1.2;
+    
+    color: #fff;
+}
+.hero-page1-inner{
+    height:9%;
+    width: 96%;
+    /* background-color: magenta; */
+    position: absolute;
+    bottom: 5%;
+     display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-page1-inner>button{
+    padding: 13px 38px;
+    border:none;
+    border-radius: 50px;
+    background-color: #fff;
+    color: #0b48ed;
+    font-family:b;
+    font-size: 12px;
+}
+.hero-page1-inner>h4{
+    font-family: a;
+    font-weight: lighter;
+    font-size: 1.2em;
+    color: #fff;
+}
+#page2{
+    height:100vh;
+    width:100vw;
+    background-color:#0a3cce;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    font-family: a;
+    color: #fff;
+    padding: 0vw 8vw;
+}
+#page2>h2{
+    font-weight: 100;
+    margin-bottom: 3vw;
+}
+#page2>h1{
+    width:80%;
+    font-size: 3em;
+    font-weight: 100;
+    line-height: 1.5;
+    color: #dadada69;
+}
+
+#page3{
+    height:100vh;
+    width:100vw;
+    background-color: red;
+    position: relative;
+}
+#page3>canvas{
+    max-height: 100vh;
+    max-width: 100vw;
+    position: relative;
+}
