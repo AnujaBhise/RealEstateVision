@@ -110,7 +110,7 @@ body{
 #page2{
     height:100vh;
     width: 100vw;
-    background-color:#0a3cce;
+    background-color:#0934e1;
     position: relative;
     display: flex;
     font-family: a;
@@ -143,7 +143,8 @@ body{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #1137ca;
+    background-color:#0f34c9;
+    
     display: flex;
     justify-content: center;
     align-items: start;
@@ -173,4 +174,29 @@ body{
     position: relative;
     max-width: 100vw;
     max-height: 100vh;
+}
+#page6{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color:#0b48ed;
+    display:center;
+    align-items: start;
+    justify-content: center;
+    font-family: a;
+    flex-direction: column;
+}
+#page6>h3{
+    margin-left: 12vw;
+    color: #ffffff96;
+    font-weight: 100;
+    margin-bottom: 2vw;
+}
+#page6>h1{
+    margin-left: 12vw;
+    font-size: 4vw;
+    width: 75%;
+    font-weight: 100;
+    color: #ffffff90;
+    line-height: 1.2;
 }
