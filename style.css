@@ -293,7 +293,7 @@ body{
 
 .right9{
     height: 100%;
-    width: 84%;
+    width: 70%;
     /* background-color:yellowgreen; */
     position: relative;
 }
@@ -308,4 +308,39 @@ body{
     transform: translateY(-50%);
     background-image: url("./resources/page9.jpeg");
     background-size: cover;
+}
+#page10{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #0a3cce;
+    /* background-color: #000; */
+    
+}
+.right10{
+    height: 100%;
+    width:80%;
+    position: relative;
+    left:34%;
+    /* background-color: red; */
+}
+.right10-inner{
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: start;
+    /* background-color: magenta; */
+    height: 33.3%;
+    width: 100%;
+    font-family: a;
+    color: #fff;
+    margin-left: 5%;
+}
+.right10-inner>h1{
+    font-size: 2vw;
+}
+.right10-inner>p{
+    font-size: 1.5vw;
+    width:70%;
+    margin-top: 2vw;
 }
