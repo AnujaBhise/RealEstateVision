@@ -1,0 +1,1 @@
+Objective: To leverage my acquired expertise in HTML, CSS, and JavaScript, including specialized skills in implementing dynamic scrolling animations with GSAP, through hands-on experience gained in a real estate vision website clone project, showcasing my commitment to continuous learning and proficiency in web developmen
