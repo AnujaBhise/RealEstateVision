@@ -9,9 +9,12 @@ If you like this Repo, Please click the :star:
 
 ## 📸 Demo
 
-![Demo](demo.gif)
+![Demo](<img width="947" alt="img1" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f4a9207c-ebd3-4f62-8538-ddf93cfb0a2d">)
+<img width="896" alt="img4" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/6f737f89-a1de-423c-a453-6782a284f001">
+<img width="890" alt="img5" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/2c657475-52bc-4f78-892c-67a2115bde23">
 
-[Watch Demo Video](#) <!-- Add a link to a video demo if available -->
+
+[Watch Demo Video](https://github.com/AnujaBhise/RealEstateVision/assets/96904529/b65536aa-f17c-4259-9b51-b6e67897b93d) <!-- Add a link to a video demo if available -->
 
 ## 🌟 Features
 
