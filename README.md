@@ -9,26 +9,19 @@ The **Real Estate Vision ** is a dynamic and visually engaging usecase clone bui
 If you like this Repo, Please click the :star:
 
 ## 📸 Demo
-<p align="center">
-  <img width="250" height="200" alt="img10" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/2cd731eb-ac5d-410f-910a-04dab43066d8">
-  <img width="250" height="200" alt="img8" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f3642ee6-15d8-4bf4-853e-ad057645d2e2">
-  <img width="250" height="200" alt="img7" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/e885646a-2b91-471d-9350-ffd325e05ad6">
-</p>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img width="100%" height="auto" alt="img1" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/26ec58e8-0324-4ed1-bb14-df5131c67571">
+  <img width="100%" height="auto" alt="img2" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f2974983-d83c-4b59-8d71-e0c538d2619c">
+  <img width="100%" height="auto" alt="img3" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/4cef8409-b896-4d39-a13e-fa4536fca0fe">
+  
+  <img width="100%" height="auto" alt="img4" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/36e89daa-a9f7-4444-a894-965caea296ad">
+  <img width="100%" height="auto" alt="img5" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/2c72b1d0-7350-4b2e-98a0-9c3ddb7251a0">
+  <img width="100%" height="auto" alt="img6" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f32db383-0f8b-4427-af17-3df62a019322">
 
-<p align="center">
-  <img width="250" height="200" alt="img6" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f32db383-0f8b-4427-af17-3df62a019322">
-  <img width="250" height="200" alt="img5" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/2c72b1d0-7350-4b2e-98a0-9c3ddb7251a0">
-  <img width="250" height="200" alt="img4" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/36e89daa-a9f7-4444-a894-965caea296ad">
-</p>
-
-<p align="center">
-  <img width="250" height="200" alt="img3" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/4cef8409-b896-4d39-a13e-fa4536fca0fe">
-  <img width="250" height="200" alt="img2" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f2974983-d83c-4b59-8d71-e0c538d2619c">
-  <img width="250" height="200" alt="img1" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/26ec58e8-0324-4ed1-bb14-df5131c67571">
-</p>
-
-
-
+  <img width="100%" height="auto" alt="img7" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/e885646a-2b91-471d-9350-ffd325e05ad6">
+  <img width="100%" height="auto" alt="img8" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f3642ee6-15d8-4bf4-853e-ad057645d2e2">
+  <img width="100%" height="auto" alt="img9" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/2cd731eb-ac5d-410f-910a-04dab43066d8">
+</div>
 
 
 ## 🌟 Features
