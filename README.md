@@ -1,24 +1,39 @@
-# ScrollCanvas Showcase
+<img width="546" alt="img3" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/daf4a2de-a128-4612-9bea-54067de5f866"># Real Estate Vision 
 
 https://github.com/AnujaBhise/RealEstateVision/assets/96904529/d19b445a-d6c9-44cc-898f-2b21bc12fab0
-
-
-
-![Project Demo](demo.gif)
+<img width="922" alt="img8" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/dd9c038e-068e-4203-83f8-4957820df409">
+<img width="874" alt="img7" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f40f7aed-aa67-4fda-a9f0-1b4687a295e2">
+<img width="933" alt="img6" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/a85c020f-d1cf-48f2-9c13-1503966cdbb6">
+<img width="800" alt="img5" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/38ab498f-b99a-46da-9860-806d1645964b">
 
 ## 🚀 Overview
 
-The **ScrollCanvas Showcase** is a dynamic and visually engaging portfolio presentation built using HTML, CSS, and JavaScript. It leverages modern web technologies such as GSAP animations, Locomotive Scroll, and ScrollTrigger to create an immersive scrolling experience.
+The **Real Estate Vision ** is a dynamic and visually engaging usecase clone built using HTML, CSS, and JavaScript. It leverages modern web technologies such as GSAP animations, Locomotive Scroll, and ScrollTrigger to create an immersive scrolling experience.
+<br>
+
 If you like this Repo, Please click the :star:
 
 ## 📸 Demo
 
-![Demo](<img width="947" alt="img1" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f4a9207c-ebd3-4f62-8538-ddf93cfb0a2d">)
-<img width="896" alt="img4" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/6f737f89-a1de-423c-a453-6782a284f001">
-<img width="890" alt="img5" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/2c657475-52bc-4f78-892c-67a2115bde23">
 
+<p align="center">
+  <img width="200" alt="img10" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/2cd731eb-ac5d-410f-910a-04dab43066d8">
+  <img width="200" alt="img8" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f3642ee6-15d8-4bf4-853e-ad057645d2e2">
+  <img width="200" alt="img7" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/e885646a-2b91-471d-9350-ffd325e05ad6">
+</p>
 
-[Watch Demo Video](https://github.com/AnujaBhise/RealEstateVision/assets/96904529/b65536aa-f17c-4259-9b51-b6e67897b93d) <!-- Add a link to a video demo if available -->
+<p align="center">
+  <img width="200" alt="img6" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f32db383-0f8b-4427-af17-3df62a019322">
+  <img width="200" alt="img5" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/2c72b1d0-7350-4b2e-98a0-9c3ddb7251a0">
+  <img width="200" alt="img4" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/36e89daa-a9f7-4444-a894-965caea296ad">
+</p>
+
+<p align="center">
+  <img width="200" alt="img3" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/4cef8409-b896-4d39-a13e-fa4536fca0fe">
+  <img width="200" alt="img2" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/f2974983-d83c-4b59-8d71-e0c538d2619c">
+  <img width="200" alt="img1" src="https://github.com/AnujaBhise/RealEstateVision/assets/96904529/26ec58e8-0324-4ed1-bb14-df5131c67571">
+</p>
+
 
 ## 🌟 Features
 
