@@ -1,13 +1,11 @@
 # Real Estate Vision 
 
-
 https://github.com/AnujaBhise/RealEstateVision/assets/96904529/9393b791-9379-49b8-badb-93da07d4694c
 
-
-
 ## 🚀 Overview
-
-The **Real Estate Vision** is a dynamic and visually engaging usecase clone built using HTML, CSS, and JavaScript. It leverages modern web technologies such as GSAP animations, Locomotive Scroll, and ScrollTrigger to create an immersive scrolling experience.
+🏡 The **Real Estate Vision** is a dynamic and visually engaging usecase clone built using HTML, CSS, and JavaScript. It leverages modern web technologies such as GSAP animations, Locomotive Scroll, and ScrollTrigger to create an immersive scrolling experience
+<br>
+🚀 Explore dynamic animations and engaging visual elements to gain insights into real estate trends.
 <br>
 
 If you like this Repo, Please click the :star:
